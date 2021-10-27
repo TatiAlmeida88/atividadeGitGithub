@@ -1,2 +1,3 @@
 testando git e github - arquivo 1
 primeiro teste
+Alterando o mesmo arquivo - participante A
